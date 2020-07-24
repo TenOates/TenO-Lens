@@ -1,2 +1,2 @@
 # TenO-Lens
-Document Scanner application. Made with 💖 in Nitesh
+Document Scanner application. Made with 💖 in India
